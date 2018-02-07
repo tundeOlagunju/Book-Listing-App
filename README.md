@@ -2,7 +2,7 @@
 This repo contains the first project of Android's Udacity Networking Course.
 It allows users to search for the titles and authors of books of their choice.It fetches data from the Google Books API.
 
-#Screenshots
+# Screenshots
 
 ![screenshot_20180118-074856](https://user-images.githubusercontent.com/31137677/35093273-c962cb22-fbf6-11e7-97ee-78d25058f12d.png)
 
